@@ -66,4 +66,4 @@ Gwyn Bellamy, Johannes Schmitt, Ulrich Thiel: <i>On parabolic subgroups of sympl
 
 The general reference for the groups is the classification in
 
-Arjeh M. Cohen: <i>Finite quaternion reflection groups</i>. In: J. Algebra 64 (1980), pp. 293--324.
+Arjeh M. Cohen: <i>Finite quaternion reflection groups</i>. In: J. Algebra 64 (1980), pp. 293-324.
