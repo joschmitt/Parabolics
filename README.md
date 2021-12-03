@@ -62,7 +62,7 @@ Generators:
 ## References
 This repository accompanies our preprint
 
-Gwyn Bellamy, Johannes Schmitt, Ulrich Thiel: <i>On parabolic subgroups of symplectic reflection groups</i>, 2021
+Gwyn Bellamy, Johannes Schmitt, Ulrich Thiel: <i>On parabolic subgroups of symplectic reflection groups</i>, 2021, [arXiv](https://arxiv.org/abs/2112.01268)
 
 The general reference for the groups is the classification in
 
