@@ -62,8 +62,8 @@ Generators:
 ## References
 This repository accompanies the paper
 
-Gwyn Bellamy, Johannes Schmitt, Ulrich Thiel: <i>On parabolic subgroups of symplectic reflection groups</i>. In: Glasg. Math. J. (2023), to appear, [Link](https://www.doi.org/10.1017/S0017089522000416), [arXiv](https://arxiv.org/abs/2112.01268)
+Gwyn Bellamy, Johannes Schmitt, Ulrich Thiel: <i>On parabolic subgroups of symplectic reflection groups</i>. Glasg. Math. J. **65** (2023), no. 2, 401–413, [Link](https://www.doi.org/10.1017/S0017089522000416), [arXiv](https://arxiv.org/abs/2112.01268)
 
 The general reference for the groups is the classification in
 
-Arjeh M. Cohen: <i>Finite quaternion reflection groups</i>. In: J. Algebra 64 (1980), pp. 293-324.
+Arjeh M. Cohen: <i>Finite quaternion reflection groups</i>. J. Algebra **64** (1980), no. 2, 293–324.
